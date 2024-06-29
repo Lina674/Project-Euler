@@ -30,3 +30,7 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 What is the 10001st prime number? (104743)
 
+# (C#) Project-Euler-8-Solution
+
+Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product? (23514624000)
+
